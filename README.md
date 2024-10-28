@@ -1,3 +1,6 @@
+## Diagram
+![Solution Diagram](https://github.com/guitdeveloper/case-pin/blob/main/Case_Pin.jpg)
+
 ## How run the application
 
 Steps:
